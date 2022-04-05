@@ -1,0 +1,12 @@
+{
+    "course_overview": {
+        "uid": "str",
+        "uin": "int",
+        "people_uri": "str",
+        "people_api": "str",
+        "course": "str",
+        "course_name": "str",
+        "acad_dept": "str",
+        "year": "int"
+    }
+}

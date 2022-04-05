@@ -1,0 +1,187 @@
+{
+    "Office of Academic Affairs": [],
+    "Texas A&M Institute for Neuroscience": [],
+    "Texas A&M Engineering Extension Service (TEEX)": [],
+    "School of Law": [],
+    "Office of the Provost and Executive Vice President": [],
+    "Texas A&M University at Galveston": [
+        "Ocean Engineering",
+        "Marine Engineering Technology",
+        "Foundational Sciences",
+        "Maritime Transportation",
+        "Liberal Studies",
+        "Marine Biology",
+        "Maritime Administration",
+        "Marine Sciences"
+    ],
+    "Texas A&M Engineering Experiment Station (TEES)": [
+        "Center for Intelligent Multifunctional Materials and Structures",
+        "Nuclear Security Science and Policy Institute",
+        "Cybersecurity Center",
+        "Center for Large-scale Scientific Simulations",
+        "TEES Regional Divisions",
+        "Nuclear Science Center",
+        "The Turbomachinery Laboratory",
+        "Nuclear Power Institute",
+        "National Center for Therapeutics Manufacturing",
+        "National Corrosion and Materials Reliability Center",
+        "Process Engineering R&D Center",
+        "Energy Institute",
+        "Center for Remote Health Technologies and Systems",
+        "Gas and Fuels Research Center",
+        "Energy Systems Laboratory",
+        "Institute for Engineering Education and Innovation",
+        "Polymer Technology Center"
+    ],
+    "Office of the President": [
+        "Division of Research"
+    ],
+    "University Libraries": [
+        "Center for Systematic Reviews and Research Syntheses"
+    ],
+    "Texas A&M Veterinary Medical Diagnostic Laboratory": [],
+    "College of Science": [
+        "Mathematics",
+        "Physics and Astronomy",
+        "Center for Statistical Bioinformatics",
+        "Biology",
+        "Statistics",
+        "Chemistry",
+        "Center for Electrochemical Systems and Hydrogen Research"
+    ],
+    "Albritton Center for Grand Strategy": [],
+    "Texas A&M AgriLife Research": [
+        "Dallas Research and Extension Center",
+        "Temple Research and Extension Center",
+        "Corpus Christi Research and Extension Center",
+        "El Paso Research and Extension Center",
+        "Stephenville Research and Extension Center",
+        "Weslaco Research and Extension Center",
+        "Overton Research and Extension Center",
+        "Vernon Research and Extension Center",
+        "Beaumont Research and Extension Center",
+        "Amarillo Research and Extension Center",
+        "Lubbock Research and Extension Center",
+        "Uvalde Research and Extension Center",
+        "San Angelo Research and Extension Center"
+    ],
+    "Bush School of Government and Public Service": [
+        "Scowcroft Institute of International Affairs",
+        "International Affairs",
+        "Center for Nonprofits and Philanthropy",
+        "Public Service and Administration",
+        "Albritton Center for Grand Strategy"
+    ],
+    "College of Engineering": [
+        "Civil Engineering",
+        "Engineering Education Research Taskforce",
+        "Engineering Technology and Industrial Distribution",
+        "Ocean Engineering",
+        "Nuclear Engineering",
+        "Electrical and Computer Engineering",
+        "Industrial and Systems Engineering",
+        "Computer Science and Engineering",
+        "Petroleum Engineering",
+        "Biological and Agricultural Engineering",
+        "Mechanical Engineering",
+        "Aerospace Engineering",
+        "Chemical Engineering",
+        "Biomedical Engineering",
+        "Materials Science and Engineering",
+        "Aggie STEM"
+    ],
+    "College of Geosciences": [
+        "Atmospheric Sciences",
+        "Geology and Geophysics",
+        "Oceanography",
+        "Center for Tectonophysics",
+        "Geography"
+    ],
+    "Mays Business School": [
+        "Mays Graduate Programs",
+        "Information and Operations Management",
+        "Accounting",
+        "Mays Student Transformation Center",
+        "Finance",
+        "Management",
+        "Marketing"
+    ],
+    "Texas A&M University at Qatar": [
+        "Science (Qatar)",
+        "Mechanical Engineering (Qatar)",
+        "Electrical and Computer Engineering (Qatar)",
+        "Chemical Engineering (Qatar)",
+        "Petroleum Engineering (Qatar)",
+        "Liberal Arts (Qatar)"
+    ],
+    "Texas A&M AgriLIFE Extension": [
+        "Dallas Research and Extension Center",
+        "Temple Research and Extension Center",
+        "Corpus Christi Research and Extension Center",
+        "El Paso Research and Extension Center",
+        "Stephenville Research and Extension Center",
+        "Temple-Blackland Research and Extension Center",
+        "Weslaco Research and Extension Center",
+        "Overton Research and Extension Center",
+        "Vernon Research and Extension Center",
+        "Beaumont Research and Extension Center",
+        "Amarillo Research and Extension Center",
+        "Lubbock Research and Extension Center",
+        "Uvalde Research and Extension Center",
+        "San Angelo Research and Extension Center"
+    ],
+    "Texas A&M Transportation Institute (TTI)": [
+        "Center for Transportation Safety",
+        "Center for Railway Research"
+    ],
+    "College of Education and Human Development": [
+        "Educational Psychology",
+        "Health and Kinesiology",
+        "Teaching, Learning and Culture",
+        "Educational Administration and Human Resource Development",
+        "Aggie STEM"
+    ],
+    "College of Architecture": [
+        "Center for Health Systems and Design",
+        "Construction Science",
+        "Architecture",
+        "Institute for Applied Creativity",
+        "Landscape Architecture and Urban Planning",
+        "Visualization",
+        "Hazard Reduction and Recovery Center"
+    ],
+    "College of Veterinary Medicine and Biomedical Sciences": [
+        "Large Animal Clinical Sciences",
+        "Veterinary Integrative Biosciences",
+        "Small Animal Clinical Sciences",
+        "Veterinary Pathobiology",
+        "Veterinary Physiology and Pharmacology"
+    ],
+    "Institute for Sustainable Communities": [],
+    "Health Science Center": [
+        "Rural and Community Health Institute",
+        "College of Dentistry",
+        "School of Public Health",
+        "Global Institute for Hispanic Health",
+        "College of Medicine",
+        "Irma Lerma Rangel College of Pharmacy",
+        "College of Nursing"
+    ],
+    "College of Liberal Arts": [
+        "Melbern G. Glasscock Center for Humanities Research",
+        "Performance Studies",
+        "Economics",
+        "International Studies",
+        "Anthropology",
+        "Sociology",
+        "Political Science",
+        "Psychological and Brain Sciences",
+        "Women & Gender Studies",
+        "English",
+        "Africana Studies",
+        "Philosophy",
+        "Communication",
+        "History",
+        "Hispanic Studies"
+    ]
+}

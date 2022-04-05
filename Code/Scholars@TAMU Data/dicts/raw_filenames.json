@@ -1,0 +1,27 @@
+{
+    "people": [
+        "people_affiliation",
+        "people_education",
+        "people_overview",
+        "people_subject_areas"
+    ],
+    "courses": [
+        "course_overview"
+    ],
+    "grants_and_awards": [
+        "awards_overview",
+        "grants_abstract",
+        "grants_overview"
+    ],
+    "organizations": [
+        "organizations_external",
+        "organizations_local"
+    ],
+    "publications": [
+        "publications_abstract",
+        "publications_author_institutions",
+        "publications_overview",
+        "publications_subject_journal_wos",
+        "publications_unsdg"
+    ]
+}

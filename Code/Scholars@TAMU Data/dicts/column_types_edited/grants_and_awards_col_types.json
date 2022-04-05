@@ -1,0 +1,31 @@
+{
+    "awards_overview": {
+        "uid": "str",
+        "uin": "int",
+        "people_uri": "str",
+        "people_api": "str",
+        "award_id": "float",
+        "year": "float",
+        "award_name": "str",
+        "authoritative_name_id": "float"
+    },
+    "grants_abstract": {
+        "grant_uri": "str",
+        "grant_api": "str",
+        "abstract": "str"
+    },
+    "grants_overview": {
+        "uid": "str",
+        "uin": "int",
+        "people_uri": "str",
+        "people_api": "str",
+        "grant_uid": "str",
+        "grant_uri": "str",
+        "grant_api": "str",
+        "start_year": "float",
+        "end_year": "float",
+        "role": "str",
+        "grant_awarded_by_external_org_id": "float",
+        "title": "str"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "organizations_external": {
+        "external_org_id": "int",
+        "external_org_uri": "str",
+        "external_org_api": "str",
+        "authoritative_name": "str",
+        "authoritative_name_city": "str",
+        "authoritative_name_state": "str",
+        "authoritative_name_country": "str",
+        "grid_id": "str",
+        "aa_id": "int"
+    },
+    "organizations_local": {
+        "[dept_id]": "int",
+        "[dept_name]": "str",
+        "[department_uri]": "str",
+        "[department_api]": "str"
+    }
+}

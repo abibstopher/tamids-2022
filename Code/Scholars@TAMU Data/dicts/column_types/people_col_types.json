@@ -1,0 +1,41 @@
+{
+    "people_affiliation": {
+        "uid": "str",
+        "uin": "int",
+        "people_uri": "str",
+        "people_api": "str",
+        "position_dept_id": "float"
+    },
+    "people_education": {
+        "uid": "str",
+        "uin": "float",
+        "people_uri": "str",
+        "people_api": "str",
+        "external_org_id": "float",
+        "granting_school_name": "str",
+        "degreeuri_text": "str",
+        "year": "int",
+        "major": "str"
+    },
+    "people_overview": {
+        "uid": "str",
+        "uin": "int",
+        "people_uri": "str",
+        "people_api": "str",
+        "status": "str",
+        "dept_id": "float",
+        "lastname": "str",
+        "middle": "str",
+        "firstname": "str",
+        "preferred_title": "str",
+        "email": "str",
+        "overview": "nan"
+    },
+    "people_subject_areas": {
+        "uid": "str",
+        "uin": "int",
+        "people_uri": "str",
+        "people_api": "str",
+        "research_areas": "nan"
+    }
+}

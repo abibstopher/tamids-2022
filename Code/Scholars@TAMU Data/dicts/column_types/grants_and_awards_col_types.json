@@ -1,0 +1,31 @@
+{
+    "awards_overview": {
+        "uid": "str",
+        "uin": "int",
+        "people_uri": "str",
+        "people_api": "str",
+        "award_id": "nan",
+        "year": "nan",
+        "award_name": "nan",
+        "authoritative_name_id": "nan"
+    },
+    "grants_abstract": {
+        "grant_uri": "str",
+        "grant_api": "str",
+        "abstract": "nan"
+    },
+    "grants_overview": {
+        "uid": "str",
+        "uin": "int",
+        "people_uri": "str",
+        "people_api": "str",
+        "grant_uid": "str",
+        "grant_uri": "str",
+        "grant_api": "str",
+        "start_year": "float",
+        "end_year": "float",
+        "role": "str",
+        "grant_awarded_by_external_org_id": "float",
+        "title": "str"
+    }
+}

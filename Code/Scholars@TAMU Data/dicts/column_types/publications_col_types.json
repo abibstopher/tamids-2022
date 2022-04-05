@@ -1,0 +1,50 @@
+{
+    "publications_abstract": {
+        "publication_uri": "str",
+        "publication_api": "str",
+        "abstract": "str"
+    },
+    "publications_author_institutions": {
+        "publication_uri": "str",
+        "publication_api": "str",
+        "organisation": "str",
+        "city": "str",
+        "country": "str"
+    },
+    "publications_overview": {
+        "people_uid": "str",
+        "uin": "int",
+        "people_uri": "str",
+        "people_api": "str",
+        "dept_id": "int",
+        "publication_uid": "str",
+        "publication_uri": "str",
+        "publication_api": "str",
+        "doi": "str",
+        "issn": "str",
+        "eissn": "str",
+        "journal_title": "str",
+        "month": "int",
+        "year": "int",
+        "begin_page": "int",
+        "end_page": "int",
+        "volume": "int",
+        "issue": "int",
+        "publisher": "str",
+        "publication_type": "str",
+        "publication_title": "str"
+    },
+    "publications_subject_journal_wos": {
+        "publication_uri": "str",
+        "publication_api": "str",
+        "wos_id": "str",
+        "wos_research_area_id": "float",
+        "keyword": "str"
+    },
+    "publications_unsdg": {
+        "publication_uri": "str",
+        "publication_api": "str",
+        "category_sdg_id": "int",
+        "name": "str"
+    }
+}
